@@ -43,7 +43,7 @@ public class Main {
 	}
 	
 	public static void enregistrer() throws IOException {
-		// blabla paramètres ENNUYEUX blabla
+		// paramètres
 		File disque = new File(adresse);
 		long debitOBS = 35000;
 		long debit = (debitOBS*1024)/8; // ops
